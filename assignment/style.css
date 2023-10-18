@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://i.postimg.cc/hvKLZwqT/topsters2-2.jpg");
+    vertical-align: middle;
+}
+
+body{
+    box-sizing: border-box;
+    width: 40%;
+    margin: auto;
+    background-attachment: fixed;
+    text-align: center;
+}
+.cell{
+    text-align: center;
+    background: white;
+    border-style: ridge;
+}
+
+h1{
+    background-color: yellow;
+}
