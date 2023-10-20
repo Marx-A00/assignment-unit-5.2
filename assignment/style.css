@@ -1,12 +1,13 @@
 body{
     background-image: url("https://i.postimg.cc/hvKLZwqT/topsters2-2.jpg");
     vertical-align: middle;
+    background-repeat: repeat;
 }
 
 body{
+    margin: 0;
     box-sizing: border-box;
     width: 40%;
-    margin: auto;
     background-attachment: fixed;
     text-align: center;
 }
@@ -15,7 +16,12 @@ body{
     background: white;
     border-style: ridge;
 }
-
-h1{
-    background-color: yellow;
+header{
+    text-align: center;
+    color: palegoldenrod;
+    background-color: #702963;
+}
+main{
+    padding: 1em;
+    background-color: lightgray;
 }
